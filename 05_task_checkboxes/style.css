@@ -1,6 +1,8 @@
 html {
     font-family: sans-serif;
     background-image: url('./images/flower_09_1.jpg');
+    /*background-position: center;*/
+    /*background-size: cover;*/
 }
 
 .inbox {
