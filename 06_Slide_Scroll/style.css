@@ -3,7 +3,9 @@ html {
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
-    background-image: url('./images/flower_09_1.jpg');
+    background-image: url('./images/stars.jpg');
+    background-position: center;
+    /*background-size: cover;*/
 }
 
 body {
@@ -18,12 +20,19 @@ h1 {
     margin-top: 0;
 }
 
+p {
+    padding: 0px;
+    margin: 0;
+    font-size: 16px;
+}
+
 .site-wrap {
     max-width: 700px;
     margin: 100px auto;
-    background: white;
+    background: rgb(175, 192, 250);
     padding: 40px;
     text-align: justify;
+    text-align:center;
 }
 
 .align-left {
